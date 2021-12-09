@@ -4,6 +4,8 @@ The shopping center retailers work in a profoundly serious retail condition whic
 
 Link for Google Colab notebook containing source code: https://colab.research.google.com/drive/13dSaG0AqRYCTp0BXLh8v00zH5K7B9JOc?usp=sharing
 
-![image](https://user-images.githubusercontent.com/73272997/145445074-e07eb96a-06d0-4335-8db0-314df4842a4e.png)
+<p align="center"><img src="https://user-images.githubusercontent.com/73272997/145445074-e07eb96a-06d0-4335-8db0-314df4842a4e.png" />  
+</p>
 
-![image](https://user-images.githubusercontent.com/73272997/145445089-03cfc064-b17f-413c-bf67-b2526f4c2298.png)
+<p align="center"><img src="https://user-images.githubusercontent.com/73272997/145445089-03cfc064-b17f-413c-bf67-b2526f4c2298.png" />  
+</p>
